@@ -13,7 +13,7 @@
     <br>
     <img src="https://metrics.lecoq.io/anugrahsinghal?template=classic&isocalendar=1&followup=1&tweets=1&achievements=1&isocalendar.duration=half-year&followup.sections=repositories&followup.indepth=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&achievements.ignored=follower%2C%20gister%2C%20member%2C%20forker%2C%20inspirer%2C%20influencer%2C%20worker&config.timezone=Asia%2FKolkata">
     
-    </details>
+
 </div>
 
 
